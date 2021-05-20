@@ -15,3 +15,13 @@ Pandas, Python, Jupyter Notebooks
 - F1: 0.75
 
 ![](Resources/Random_OverSampling.PNG)
+
+## SMOTE Oversampling
+- Accuracy Score: 0.662
+- Precision: 0.99
+- Recall: 0.69
+- F1: 0.81
+
+![](Resources/Smote_OverSampling.PNG)
+
+
