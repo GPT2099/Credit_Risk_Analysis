@@ -24,4 +24,13 @@ Pandas, Python, Jupyter Notebooks
 
 ![](Resources/Smote_OverSampling.PNG)
 
+## Undersampling
+- Accuracy Score: 0.544
+- Precision: 0.99
+- Recall: 0.69
+- F1: 0.56
+
+![](Resources/UnderSampling.PNG)
+
+
 
