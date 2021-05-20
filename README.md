@@ -6,3 +6,6 @@ This analysis will show and compare several different tests such as oversampling
 __Tools__:
 
 Pandas, Python, Jupyter Notebooks
+# Results
+
+## Random Oversampling and Logistic Regression
