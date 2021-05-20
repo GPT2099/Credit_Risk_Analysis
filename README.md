@@ -57,3 +57,5 @@ Pandas, Python, Jupyter Notebooks
 ![](Resources/Easy_Ensemble_AdaBoost.PNG)
 
 # Summary
+I would feel confident in recommending the Easy Ensemble AdaBoost Classifier as the best model to use out of these six. The model is far ahead of the competition in its accuracy score and F1 score. Having scores in the 90 percentile is an acceptable industry standard. 
+
