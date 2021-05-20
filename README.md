@@ -32,5 +32,11 @@ Pandas, Python, Jupyter Notebooks
 
 ![](Resources/UnderSampling.PNG)
 
+## Combination (Over and under) Sampling 
+- Accuracy Score: 0.649
+- Precision: 0.99
+- Recall: 0.60
+- F1: 0.81
 
+![](Resources/Combination_Sampling.PNG)
 
