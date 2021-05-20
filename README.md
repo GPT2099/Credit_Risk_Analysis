@@ -40,3 +40,18 @@ Pandas, Python, Jupyter Notebooks
 
 ![](Resources/Combination_Sampling.PNG)
 
+## Balanced Random Forest
+- Accuracy Score: 0.79
+- Precision: 0.99
+- Recall: 0.70
+- F1: 0.93
+
+![](Resources/Balanced_Random_Forest.PNG)
+
+## Easy Ensemble AdaBoost Classifier
+- Accuracy Score: 0.91
+- Precision: 0.99
+- Recall: 0.89
+- F1: 0.96
+
+![](Resources/Easy_Ensemble_AdaBoost.PNG)
