@@ -13,3 +13,5 @@ Pandas, Python, Jupyter Notebooks
 - Precision: 0.99
 - Recall: 0.60
 - F1: 0.75
+
+![](Resources/Random_OverSampling.PNG)
