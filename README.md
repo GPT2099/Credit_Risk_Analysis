@@ -9,3 +9,7 @@ Pandas, Python, Jupyter Notebooks
 # Results
 
 ## Random Oversampling and Logistic Regression
+- Accuracy Score: 0.647
+- Precision: 0.99
+- Recall: 0.60
+- F1: 0.75
